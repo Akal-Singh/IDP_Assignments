@@ -49,16 +49,16 @@ project:
         - file: lectures/neural-networks.ipynb
         - file: lectures/language-models.ipynb
         - file: lectures/large-language-models.ipynb
-    - title: Sections
+    - title: Classwork
       children:
-        - file: sections/python-fundamentals.ipynb
-        - file: sections/data-structures-and-files.ipynb
-        - file: sections/pandas-fundamentals.ipynb
-        - file: sections/information-representation.ipynb
-        - file: sections/object-oriented-programming.ipynb
-        - file: sections/geospatial-data.ipynb
-        - file: sections/machine-learning.ipynb
-        - file: sections/accessibility-simulations.ipynb
+        - file: classwork/python-fundamentals.ipynb
+        - file: classwork/data-structures-and-files.ipynb
+        - file: classwork/pandas-fundamentals.ipynb
+        - file: classwork/information-representation.ipynb
+        - file: classwork/object-oriented-programming.ipynb
+        - file: classwork/geospatial-data.ipynb
+        - file: classwork/machine-learning.ipynb
+        - file: classwork/accessibility-simulations.ipynb
     - title: Homework
       children:
         - file: homework/processing.ipynb
